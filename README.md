@@ -1,4 +1,4 @@
-# 🌋 Atmospheric Gas Concentration Analysis — Mauna Loa Observatory
+# Atmospheric Gas Concentration Analysis — Mauna Loa Observatory
 
 ![R](https://img.shields.io/badge/R-4.x-276DC3?style=flat&logo=r&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat)
@@ -10,7 +10,7 @@ An end-to-end unsupervised learning analysis of 20 years of atmospheric gas conc
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Dataset](#dataset)
