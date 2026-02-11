@@ -69,9 +69,9 @@ All analytical choices (imputation method, number of PCs retained, clustering al
 mauna-loa-analysis/
 │
 ├── MaunaLoa_miss.csv        # Raw dataset with induced missing values
-├── analysis.R               # Full analysis script (EDA → PCA → Clustering)
+├── Mauna_Loa_Unsup_analysis.R               # Full analysis script (EDA → PCA → Clustering)
 ├── README.md                # Project documentation
-└── plots/                   # Output visualisations (optional)
+└── plots/                   # Output visualisations
 ```
 
 ---
